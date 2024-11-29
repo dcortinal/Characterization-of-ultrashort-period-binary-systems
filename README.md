@@ -1,6 +1,6 @@
 # Caracterización de sistemas binarios de ultracorto período
 
-En este mismo repositorio, encontrará el documento final y el código en su versión final utilizados para este trabajo, bajo los nombres de Código.ipynb y Documento final.pdf, respectivamente.
+En este mismo repositorio, encontrará el documento final y el código en su versión final utilizados para este trabajo, bajo los nombres de Documento final.pdf y Código.ipynb, respectivamente.
 
 # Acceso a datos de fotometría
 
